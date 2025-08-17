@@ -75,19 +75,23 @@ QuickJot/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-Light Mode  
+**Light Mode**
+
 ![Home Page Light](./screenshots/home-light.png)
 
-Dark Mode  
+**Dark Mode**  
+
 ![Home Page Dark](./screenshots/home-dark.png)
 
 ---
 
 ### 📝 Note Editor
-Light Mode  
+**Light Mode**
+
 ![Note Editor Light](./screenshots/note-editor-light.png)
 
-Dark Mode  
+**Dark Mode**
+
 ![Note Editor Dark](./screenshots/note-editor-dark.png)
 
 ---
@@ -107,5 +111,18 @@ Dark Mode
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo, create a branch, and submit a PR.
+
+
+
+
+## 👩‍💻 Author
+
+GitHub: [rakshasinha1908](https://github.com/rakshasinha1908)
+
+LinkedIn: [Raksha Sinha](https://www.linkedin.com/in/raksha-sinha-7771b8278/)
+
+Twitter/X: [rakshasinha__](https://x.com/rakshasinha__)
+
+Email: rakshasinha1908@gmail.com
 
 ---
