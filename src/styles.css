@@ -473,6 +473,13 @@ body {
   display: flex;
   align-items: center;
   cursor: pointer;
+  padding-right: 60px;
+}
+
+.starred-title {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .arrow {

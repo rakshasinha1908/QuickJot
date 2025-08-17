@@ -74,9 +74,32 @@ QuickJot/
 
 ## 📸 Screenshots
 
-* **Home Page (Light Mode)**
-* **Home Page (Dark Mode)**
-* **Note Editor**
+### 🏠 Home Page
+Light Mode  
+![Home Page Light](./screenshots/home-light.png)
+
+Dark Mode  
+![Home Page Dark](./screenshots/home-dark.png)
+
+---
+
+### 📝 Note Editor
+Light Mode  
+![Note Editor Light](./screenshots/note-editor-light.png)
+
+Dark Mode  
+![Note Editor Dark](./screenshots/note-editor-dark.png)
+
+---
+
+### ⭐ Starred Notes
+![Starred Notes](./screenshots/starred.png)
+
+---
+
+### 🔍 Search
+![Search](./screenshots/search.png)
+
 
 
 
@@ -84,3 +107,5 @@ QuickJot/
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo, create a branch, and submit a PR.
+
+---
