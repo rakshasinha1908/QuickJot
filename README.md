@@ -6,6 +6,8 @@
 **QuickJot** is a modern, lightweight, and intuitive **note-taking web app** built with **React** and **Vite**.
 It’s designed for **daily use**, whether you want to quickly jot down ideas, manage a **to-do list**, or organize thoughts.
 
+🚀 [Live Demo](https://quickjot.vercel.app)
+
 ## ✨ Features
 
 * 📝 **Create & Edit Notes** – Simple and clean note editor
